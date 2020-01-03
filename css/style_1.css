@@ -1,0 +1,35 @@
+.font_gilory .form-control{
+    font-family: 'Gilroy-Regular';
+    font-size: 14px;
+    color: #909090;
+    border: 1px solid #d7d7d7;
+    background-color: #fafafa;
+    padding: 13px 18px;
+}
+.font_gilory .form-control:focus{
+    color: #909090;
+    border: 1px solid #d7d7d7;
+    background-color: #fafafa;
+}
+.font_gilory .form-control::-webkit-input-placeholder { 
+    color: #909090;
+}
+.font_gilory .form-control:-moz-placeholder {
+    color: #909090;
+    opacity:  1;
+}
+.font_gilory .form-control::-moz-placeholder { 
+    color: #909090;
+    opacity:  1;
+}
+.font_gilory .form-control:-ms-input-placeholder { 
+    color: #909090;
+}
+.font_gilory .form-control::-ms-input-placeholder { 
+    color: #909090;
+}
+.font_gilory .form-control::placeholder {
+    color: #909090;
+}
+.font_gilory .form-control::-ms-clear {  display: none; width : 0; height: 0; }
+.font_gilory .form-control::-ms-reveal {  display: none; width : 0; height: 0; }

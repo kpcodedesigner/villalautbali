@@ -1,0 +1,166 @@
+@media(max-width: 1500px){
+    .home_accommodation_section .right_content{padding: 0 30px;}
+}
+@media(max-width: 1199px){
+    .title_28{font-size: 25px;}
+    .title_46{font-size: 42px;}
+    .title_62{font-size: 58px;}
+    .home_facilities_section .facilities_name{font-size: 22px;}
+    .footer_top {padding: 50px 0;}
+    .footer_bottom_text{padding: 20px 0;}
+    .form_control_16{padding: 12px 15px;}
+    .blue_btn,.home_checkin .blue_btn{padding: 12px 27.58px;}
+    .header_main .navbar .nav-item:not(:first-child) {padding: 0 0 0 20px;}
+    .home_accommodation_section .column_content p:not(:first-child) {padding: 15px 0 0;}
+    .home_accommodation_section .right_content {padding: 15px;margin: 0;}
+    .home_facilities_section,.home_testimonials_section {padding: 42px 0 50px;}
+    .home_testimonial_slider .slick_prev_arrow.slick-arrow {left: 45%;}
+    .home_testimonial_slider .slick_next_arrow.slick-arrow{right:45%;}
+    .home_checkin .checkin_main_col .form-group {width: 23%;}
+    .home_checkin .checkin_main_col .form-group.col_date {width: 21.5%;}
+    .home_checkin .checkin_main_col .form-group.col_select {width: 17%;}
+    .home_checkin .checkin_main_col{padding: 30px 20px 20px 20px;}
+    .home_checkin {margin: -50px 0 0 0;}
+    .home_villa_section {padding: 30px 0 50px;}
+    .accommodation_section{padding: 50px 0;}
+    .accommodation_section .left_col {-ms-flex: 0 0 35.018%;flex: 0 0 35.018%;max-width: 35.018%;}
+    .accommodation_section .right_col{-ms-flex: 0 0 64.982%;flex: 0 0 64.982%;max-width: 64.982%;}
+    .accommodation_section .bottom_arrow{    padding: 0 0 0 8.5%;}
+}
+@media(max-width: 991px){
+    .title_28{font-size: 22px;}
+    .title_46{font-size: 38px;}
+    .title_62{font-size: 54px;}
+    .home_facilities_section .facilities_name{font-size: 20px;}
+    .footer_top {padding: 30px 0;}
+    .footer_bottom_text{padding: 15px 0;}
+    .form_control_16{padding: 10px 12px;}
+    .blue_btn,.home_checkin .blue_btn{padding: 10px 25px;}
+    .footer_left p,.footer_right p {margin: 0 0 15px 0;}
+    .footer_top .footer_col:not(:last-child) {margin-bottom: 30px;}
+    .header_main .navbar .nav-item,.header_main .navbar .nav-item:not(:first-child){padding: 5px 15px;}
+    .header_main_navbar .navbar-nav{width: 100%;padding: 5px 0 0;}
+    .header_main_navbar {display: none;}
+    .home_facilities_section,.home_testimonials_section {padding: 22px 0 30px;}
+    .home_facilities_section .title_46,.home_testimonials_section .title_46 {padding: 0 0 15px 0;}
+    .home_testimonials_section .testimonial_content {margin: 0 0 25px 0;}
+    .home_testimonial_slider .slick_prev_arrow.slick-arrow {left: 46.5%;}
+    .home_testimonial_slider .slick_next_arrow.slick-arrow{right:46.5%;}
+    .home_checkin .checkin_main_col .form-group.col_date,.home_checkin .checkin_main_col .form-group.col_select{width:50%;}
+    .home_checkin .checkin_main_col .form-group{width: 100%;}
+    .home_checkin .blue_btn{display: table;margin:auto;}
+    .home_checkin {margin: -30px 0 0 0;}
+    .home_checkin select.form-control {padding-right: 35px;background-position: 95% 50%;}
+    .home_checkin .date_picker_style .date_picker {background-position: 95% 50%;padding-right: 35px;}
+    .home_villa_section {padding: 0 0 30px;}
+    .home_villa_section .content{margin: 0;padding: 5px 0 0 0;}
+    .home_villa_section .content p:not(:first-child){padding: 15px 0 0 0;}
+    .home_villa_section .slider_content {padding: 22px 0 0;}
+    /*.home_villa_section .slick-dots{top: 25%;}*/
+    .accommodation_section{padding: 30px 0;}
+    .accommodation_section .left_col {-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;padding: 0 15px 15px;}
+    .accommodation_section .right_col{-ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%;padding: 0 15px;}
+    .accommodation_section .right_content:before {width: 25.130%;left: 0;height: calc(100% - 131px);}
+    .accommodation_section .right_content {padding: 38px 0 38px 20px;}
+    /*.accommodation_section .bottom_arrow {padding: 0 0 0 5px;bottom: 20px;}*/
+    .accommodation_section .bottom_btn .bottom_btn_text {padding: 0 0 7px 0;}
+	.home_banner {
+    padding: 35% 0 0px;
+}
+}
+@media(max-width: 767px){
+    .title_28{font-size: 20px;}
+    .home_facilities_section .facilities_name{font-size: 18px;}
+    .title_46{font-size: 34px;}
+    .title_62{font-size: 50px;}
+    .blue_btn,.home_checkin .blue_btn {padding: 7px 20px;}
+    .form_control_16 {padding: 7px 10px;}
+    .home_accommodation_section .right_content {padding: 20px 15px 30px;}
+    .home_testimonial_slider .slick_prev_arrow.slick-arrow {left: 45.5%;}
+    .home_testimonial_slider .slick_next_arrow.slick-arrow{right:45.5%;}
+    .home_testimonial_slider .slider_content{padding: 30px 15px 60px;}
+    .home_testimonial_slider .slick-arrow{bottom: 25px;}
+    .form_control_14{padding: 6.5px 15px;}
+    .home_villa_section .slider_img{    padding: 30px 70px 30px 30px;}
+    /*.home_villa_section .slick-dots{top: 20%;}*/
+    .accommodation_section .bottom_arrow{padding: 20px 0 0;position: static;}
+    .accommodation_section .bottom_btn{width: 100%;}
+    .accommodation_section .right_content {padding: 20px 0 20px 20px;}
+    ul#menu-main-menu li {
+    display: inline-block;
+    padding: 10px 10px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+#dextop_villa_abt_carousal{
+	display:none;
+}
+#mobile_carousal_vila_abt{
+	display:block;
+}
+
+.vc_images_carousel .vc_carousel-control {
+    position: absolute;
+    padding: 0;
+    top: unset !important;
+    left: 0;
+    bottom: -50px !important;
+    margin-top: -15px;
+    width: 60px;
+    height: 30px;
+    opacity: 1 !important;
+    font-size: 30px;
+    text-align: center;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+    -webkit-tap-highlight-color: transparent;
+}
+
+
+.home_banner {
+    padding: 50.383% 0 0px;
+}
+
+}
+@media(max-width: 575px){
+    .title_46{font-size: 30px;}
+    .title_62{font-size: 34px;}
+    .footer_main .main_heading{margin: 0 0 10px 0;}
+    .footer_top .footer_col:not(:last-child) {margin-bottom: 20px;}
+    .home_banner{padding: 100px 0 80px;}
+    .footer_top .footer_col {text-align: center;}
+    .home_facilities_section .facilities_content{margin: 0 auto 15px;}
+    .home_testimonial_slider .slider_content .blockquote_style:before,.home_testimonial_slider .slider_content .blockquote_style:after {width: 20px;height: 16px;}
+    .home_testimonial_slider .slider_content .blockquote_style {padding: 7px 30px 3px;}
+    .home_checkin .checkin_main_col .form-group.col_date,.home_checkin .checkin_main_col .form-group.col_select{width:100%;}
+    .home_checkin .checkin_main_col{    padding: 30px 10px 20px 10px;}
+    .home_checkin select.form-control {padding-right: 30px;background-position: 97% 50%;}
+    .home_checkin .date_picker_style .date_picker {background-position: 97% 50%;padding-right: 30px;}
+    .home_villa_slider {padding: 0 0 30px;}
+    .home_villa_slider .slick_prev_arrow.slick-arrow {left: 45.5%;}
+    .home_villa_slider .slick_next_arrow.slick-arrow{right:45.5%;}
+    .home_villa_section .slider_img {padding: 30px 15px;}
+    .home_villa_section .slider_content {padding: 15px 0 0;}
+}
+@media(max-width: 479px){
+    .title_46{font-size: 28px;}
+    .home_testimonial_slider .slick_prev_arrow.slick-arrow {left: 45%;}
+    .home_testimonial_slider .slick_next_arrow.slick-arrow{right:45%;}
+    .home_villa_slider .slick_prev_arrow.slick-arrow {left: 45%;}
+    .home_villa_slider .slick_next_arrow.slick-arrow{right:45%;}
+}
+@media(max-width: 400px){
+    .home_testimonial_slider .slick_prev_arrow.slick-arrow {left: 44.5%;}
+    .home_testimonial_slider .slick_next_arrow.slick-arrow{right:44.5%;}
+    .home_villa_slider .slick_prev_arrow.slick-arrow {left: 44.5%;}
+    .home_villa_slider .slick_next_arrow.slick-arrow{right:44.5%;}
+}
+@media(max-width: 360px){
+    .home_testimonial_slider .slick_prev_arrow.slick-arrow {left: 42%;}
+    .home_testimonial_slider .slick_next_arrow.slick-arrow{right:42%;}
+    .home_villa_slider .slick_prev_arrow.slick-arrow {left: 42%;}
+    .home_villa_slider .slick_next_arrow.slick-arrow{right:42%;}
+}
+@media(max-width: 320px){
+
+}
